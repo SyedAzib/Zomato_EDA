@@ -37,22 +37,6 @@ The goal is to analyze trends in the food industry and highlight business opport
 
 ---
 
-## 📊 Sample Visualizations
-
-Here are some of the key plots from the analysis:
-
-\
-*Distribution rating of restaurants.*
-
-
-
-\
-*Top cities with the highest number of restaurants.*
-
-➡️ More visualizations are available in the [`visualizations/`](visualizations/) folder.
-
----
-
 ## 🚀 How to Run
 
 1. Clone this repository:
