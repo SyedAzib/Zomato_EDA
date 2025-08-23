@@ -36,23 +36,6 @@ The goal is to analyze trends in the food industry and highlight business opport
 5. **Service Options:** Online delivery and table booking options vary widely.
 
 ---
-
-## 📊 Sample Visualizations
-
-Here are some of the key plots from the analysis:
-
-\
-*Distribution rating of restaurants.*
-
-
-
-\
-*Top cities with the highest number of restaurants.*
-
-➡️ More visualizations are available in the [`visualizations/`](visualizations/) folder.
-
----
-
 ## 🚀 How to Run
 
 1. Clone this repository:
@@ -79,7 +62,7 @@ Here are some of the key plots from the analysis:
 ```
 ├── Zomato_EDA.ipynb     # Main analysis notebook
 ├── visualizations/      # Visualization screenshots
-├── dataset/             # (Optional) Zomato dataset
+├── dataset/             #  Zomato dataset
 ├── README.md            # Project documentation
 └── requirements.txt     # List of dependencies
 ```
