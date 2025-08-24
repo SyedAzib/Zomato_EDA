@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ```
 ├── Zomato_EDA.ipynb     # Main analysis notebook
 ├── visualizations/      # Visualization screenshots
-├── dataset/             # (Optional) Zomato dataset
+├── dataset/             #  Zomato dataset
 ├── README.md            # Project documentation
 └── requirements.txt     # List of dependencies
 ```
